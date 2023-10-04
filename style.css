@@ -12,7 +12,7 @@ img {
   }
   
   body {
-    background-color: #443A71;
+    background-color: #8a5186;
     transition: background-color 2s ease;
     color: white;
     font-family: 'Trebuchet MS';
@@ -38,13 +38,13 @@ img {
   }
   
   .day-mode a {
-    background-color: #443A71;
+    background-color: #8a5186;
     color: #f8f8f8;
   }
   
   .day-mode {
     background: #f8f8f8;
-    color: #443A71;
+    color: #8a5186;
   }
   
   
