@@ -14,12 +14,12 @@ img {
   body {
     background-color: #8a5186;
     transition: background-color 2s ease;
-    color: white;
+    color: rgb(223, 223, 223);
     font-family: 'Trebuchet MS';
   }
   
   a {
-    background-color: white;
+    background-color: rgb(223, 223, 223);
     color: #2C3E50;
     display: block;
     text-align: center;
